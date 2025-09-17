@@ -40,7 +40,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/FiloHany/SQLQueryGeneratorWeb.git
    cd openai_api_sql
    ```
 
@@ -195,7 +195,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-repo/issues) page
+1. Check the [Issues](https://github.com/FiloHany/SQLQueryGeneratorWeb.git/issues) page
 2. Create a new issue with detailed information
 3. Contact the maintainers
 
